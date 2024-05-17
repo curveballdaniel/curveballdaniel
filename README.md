@@ -1,4 +1,6 @@
-### Hi there 👋
+### Greetings 👋
+
+Under construction. Until then, find out more about me on my [website](https://0xfiftysix.com).
 
 <!--
 **curveballdaniel/curveballdaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
